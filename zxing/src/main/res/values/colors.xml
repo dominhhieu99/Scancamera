@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lcm_viewfinder_mask">#60000000</color>
+    <color name="lcm_viewfinder_laser">#ffcc0000</color>
+    <color name="lcm_viewfinder_border">#ffafed44</color>
+</resources>
